@@ -8,3 +8,4 @@ Each one of the archives contains the source code for one project:
   - PIA_Project.zip: Web application for farmers and agricultural companies - implemented registration and login with different user types (administrator, farmer and company),         profile editing, maintaining farmer fields and an online store for companies to sell their products and farmers to buy them.
   - SS_Project.rar: One-time-pass assembly with backtracking which produces an x86 based object file (in .txt format), ready for further linking/loading.
   - USP_Project.rar: Web application for smarter border crossing control which tries to reduce congestions by directing users to different borders in order to reduce their waiting     time.
+  - IS_Homework_2.rar: An exam scheduler based on a given set of exams, rooms and a period. Scheduler uses backtracking algorithm with forward checking in order to lower the run       time.
